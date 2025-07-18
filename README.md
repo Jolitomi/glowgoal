@@ -87,11 +87,15 @@ python app.py
 
 ## 🎯 Future Features
 
-* AI-Based Smart Suggestions
-* Push Notifications via Firebase
-* Social Leaderboards
-* Theme Customizer
-* Mental Health Insights (based on mood/task trends)
+* 🤖 AI-Based Suggestions — Get smarter goal strategies based on past data.
+
+* 🔔 Push Notifications — Reminders even when you're offline.
+
+* 🧠 Mental Health Insights — Spot burnout trends early using task-mood correlation.
+
+* 🎨 Theme Customizer — Personalize the app to match your vibe.
+
+
 
 ---
 
